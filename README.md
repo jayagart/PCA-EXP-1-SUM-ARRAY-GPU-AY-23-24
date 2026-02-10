@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME</h3> Jayagar.T
 <h3>ENTER YOUR REGISTER NO</h3> 212224220042
 <h3>EX. NO</h3> 1
-<h3>DATE</h3>  
+<h3>DATE</h3>  10-02-2025
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
